@@ -1,0 +1,641 @@
+body{
+	font-family: Tahoma, Arial, sans-serif;
+	font-size:11px;
+	margin:0;
+}
+.head{
+	background-color: #8B0000;
+	width: 100%;
+	height: 120px;
+	color:#CCCCCC;
+	margin:0px 0px;
+	position: relative;
+}
+.logo{
+	position: relative;
+	width: 950px;
+	display: block;
+	height: 120px;
+	margin: 0 284.6px;
+}
+.content{
+	position: absolute;
+	display:block;
+	width: 950px;
+	height: 80px;
+	margin-top: 8px;
+}
+ .content a{
+	background: url(https://nlv.gov.vn/templates/tvqg/images/logo_2019.jpg) no-repeat;
+	display: block;
+	position: absolute;
+	bottom: 35px;
+	height: 80px;
+	left: 1px;
+	top: -3px;
+	width: 950px;
+	 text-decoration:none;
+}
+.decoration{
+	text-decoration: none;
+}
+.flag{
+	position: absolute;
+	margin: 26px 0px 65px 842px;
+	width: 108px;
+	height: 29px;
+}
+.cach{
+	padding: 1px 0px;
+}
+.body{
+	margin-top:1px;
+	width:100%;
+	height:auto;
+	border: 1px solid none;
+}
+.body .left{
+	margin-left: 282px;
+	margin-top:2px;
+	width: 606px;
+	height: 2255px;
+	margin-right: 5px;
+	display: inline-block;
+	color: black;
+}
+.body .right{
+	border: 1px solid none;
+	margin-right: 200px;
+	margin-top:1px;
+	width:350px;
+	height: 2255px;
+	display:inline-block;
+}
+.pic{
+	display:block;
+	margin-top:4.5px;
+	margin-left:2.5px;
+}
+.co{
+	display: block;
+	width: 603;
+	height: 20px;
+	margin-top: 1.5px;
+	margin-left: 3px;
+	margin-right: 0px;
+	background: #8B0000;
+}
+.ac{
+	display: block;
+	float: left;
+	text-decoration: none;
+	font-size: 125%;
+	margin-left: 9.5px;
+	margin-top:1px;
+	color:#FFFFFF;
+	border-bottom: 1px solid #2A5B9E;
+}
+.content1{
+	width: 610px;
+	height: 41px;
+	float: left;
+}
+.h44{
+	padding: 3px;
+	margin-top: 3.5px;
+	font-size:100%;
+	line-height: 180%;
+	margin-left: -0.5px;
+	color: #8B0000;
+	float: left;
+}
+.content2
+{
+	width:606px;
+	height:200px;
+	float: left;
+}
+.bbro{
+	border: 1px solid #B2B2B2;
+	margin: 0 10px 8px -2px;
+	float: left;
+	padding-right: 2px;
+	padding-top: 1px;
+}
+.p{
+	color: #000000;
+	font-size:13px;
+	text-align: justify;
+	margin-top:10px;
+	line-height: 153%;
+	margin-right: 1px;
+	display: block;
+}
+.aaa{
+	width:606px;
+	height: 50px;
+	float: left;
+}
+.h444{
+	color: #8B0000;
+	margin-left: 2px;
+	line-height: 180%;
+	margin-top: 5px;
+	margin-bottom: -10px;
+}
+.bbb{
+	width:606px;
+	height: 204px;
+	float: left;
+}
+.h4444{
+	color: #00000;
+	font-size:13px;
+	text-align: justify;
+	line-height: 154%;
+	margin:0px;
+}
+.ccc{
+	width:606px;
+	height: 47px;
+	float: left;
+}
+.h14{
+	color:#8B0000;
+	line-height: 180%;
+	
+}
+.ddd{
+	float: left;
+	width: 606px;
+	height: 195px;
+}
+.eee{
+	width:606px;
+	height:150px;
+	float: left;
+}
+span{
+	display: none;
+}
+.ull{
+	padding-left: 0px;
+}
+ul.ull li{
+	padding:2px 0px 0px 10px;
+	line-height: 21px;
+	background: url(	https://nlv.gov.vn/modules/mod_jv_news/assets/images/arrow1.jpg) no-repeat 0px 7px;
+	list-style-type: none;
+}
+.chu{
+	fon-size:98%;
+	   color: #8b0000;
+    font-family: Tahoma, Arial, sans-serif;
+}
+li a{
+	text-decoration: none;
+	
+}
+li a:hover{
+	text-decoration-color: #8B0000;
+	text-decoration: underline;
+}
+.fff{
+	width: 606px;
+	height: 20px;
+	margin: 0px;
+	float: left;
+}
+.hhh{
+	width: 606px;
+	height: 20px;
+	float: left;
+	background: #8B0000;
+}
+.white{
+	color: #FFFFFF;
+	float:left;
+	font-size: 125%;
+	 margin-top: 2px;
+	margin-left: 10px 
+}
+.img{
+	width: 606px;
+	height: 200px;
+	float: left;
+}
+.bode{
+	border-bottom: 1px solid #2A5B9E;
+	display: block;
+}
+.ggg{
+	width: 606px;
+	height: 220px;
+	float: left;
+	
+}
+.kkk{
+	width: 606px;
+	height: 125px;
+	float: left;
+}
+.h15{
+	width:606px;
+	height:135px;
+	float: left;
+}
+.uuu{
+	width: 606px;
+	height: 170px;
+	float: left;
+}
+.lll{
+	width: 606px;
+	height: 300px;
+}
+.ooo{
+	width: 100%;
+	height: 25px;
+	float: left;
+	margin-top: 10px;
+}
+.asd{
+	width:38.25px;
+	height: 14.8px;
+	float: right;
+	background: #ddd;
+	color: #444;
+	border-radius: 2px 2px;
+	cursor: pointer;
+	font-size: 9px;
+	text-align: center;
+}
+.asd:hover{
+	background: #333333;
+	color: #FFFFFF;
+}
+.www{
+	width: 606px;
+	height: 200px;
+	float: left;
+}
+.lll{
+	float: left;
+	width:32%;
+	margin: 0px;
+	height: 100%;
+}
+.col{
+	color: #8B0000;
+	text-decoration: none;
+}
+.col:hover{
+	text-decoration-color: #8B0000;
+	text-decoration: underline;
+}
+.margin{
+	margin-top:5px;
+	margin-left: 8px;
+	width: 110px;
+    height: 150px;
+	margin: 3px 5px 3px 5px;
+}
+.ja-col{
+	color: #8B0000;
+	font-size: 90%;
+	text-decoration: none;
+	
+}
+.ja-col:hover{
+	text-decoration-color: #8B0000;
+	text-decoration: underline;
+}
+.ja-i{
+	margin:0px;
+}
+.kj{
+	width: 335px;
+	height: 65px;
+	border: 1px solid #DDDDDD;
+	float: left;
+	margin-top: 2px;
+	margin-left: 1px;
+	padding-top:1px;
+}
+.ja-p{
+	
+	margin-top: 1px;
+	margin-left: 1px;
+	background: url(../images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.ka{
+	width: 335px;
+	height: 56px;
+	border: 1px solid #DDDDDD;
+	float: left;
+	margin-top: 5px;
+	margin-left: 1px;
+}
+.ja-l{
+	
+	margin-top: 2px;
+	margin-left: 0px;
+	background: url(../images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.cal{
+	width: 100%;
+	height: 5px;
+	float: left;
+}
+.hh1{
+	width: 335px;
+	height: 20px;
+	float: left;
+	background: #8B0000;
+}
+.borderp{
+	width: 335px;
+	height: auto;
+	border:1px solid #DDDDDD;
+	float: left;
+	margin-left:1px;
+	margin-top:0px;
+	background: url(https://nlv.gov.vn/templates/tvqg/images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.white1{
+	color: #FFFFFF;
+	margin-left: 15px;
+	margin-top: 3.5px;
+	float: left;
+}
+.ja-h4{
+	width: 100%;
+	height: 23px;
+	background: #8B0000;
+	font-size: 120%;
+	color: #FFFFFF;
+	margin-top:0px;
+}
+.ulll{
+	padding-left: 17.5px;
+    padding-top: 0px;
+    margin-top: 9px;
+}
+ul.ulll li{
+	padding: 0px 0px 0px 13px;
+    background: url(https://nlv.gov.vn/modules/mod_jv_news/assets/images/arrow1.jpg) no-repeat 0px 7px;
+	line-height: 21px;
+    list-style-type: none;
+	margin-top:-1px;
+	font-size:12px;	
+}
+ul.ulll li a{
+	color: #8B0000;
+}
+.ull li{
+	padding: 2px 0;
+}
+.ulll li a:hover{
+	text-decoration: underline;
+	text-decoration-color: #8B0000;
+}
+.lolo{
+	float:left;
+	width: 100%;
+	height: 8px;
+}
+.float{
+	float: left;
+}
+.ja-float{
+	margin-left: 2px;
+	padding-top:0px;
+	padding-left: 1px;
+}
+.pict{
+	width: 336px;
+	float: left;
+	
+	border: 1px solid #DDDDDD;
+	height: auto;
+	background: url(https://nlv.gov.vn/templates/tvqg/images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.defaul{
+	border: 1px solid #DDDDDD;
+	width:336px;
+	float: left;
+	height:auto;
+	background: url(https://nlv.gov.vn/templates/tvqg/images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.zx{
+	width:24.4%;
+	height: auto;
+	margin-top: 7px;
+	margin-left: 2px;
+	float: left;
+}
+.xc{
+	width: 100%;
+	text-align: center;
+	margin-top:-5px;
+	margin-bottom: -9px;
+}
+.xc a:hover{
+	text-decoration: underline;
+	text-decoration-color: #8B0000;
+}
+a{
+	text-decoration: none;
+}
+.oiu{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-bottom:10px;
+}
+.backfo{
+	margin:-6px 0 0 0;
+	line-height: 16px;
+}
+.xc a p{
+	color:#8B0000;
+}
+.backline{
+	font-size:90%;
+	margin:4px 0 0 0;
+}
+.backline a:hover{
+	text-decoration: underline;
+	text-decoration-color: #8B0000;
+}
+.rightbt{
+	float: right;
+	background: #444444;
+	width: 55px;
+	text-align: center;
+	height: 16px;
+	color:#FFFFFF;
+	font-size:110%;
+	padding: 0 3px;
+	display: block;
+	margin-right: 4px;
+}
+a.rightbt:hover{
+	background: #8B0000;
+}
+.down{
+	width: 100%;
+	height: auto;
+	margin-top: 23px;
+}
+.downleft{
+	float: left;
+	width: 474px;
+	height: auto;
+	margin: 1px 3px 1px 282px;
+}
+.downright{
+	width: 474px;
+	float: left;
+	height: auto;
+	background: url(https://nlv.gov.vn/templates/tvqg/images/spotlight-bg.gif) repeat-x top #FFEBA7;
+}
+.white2{
+	color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 3.5px;
+    float: left;
+	font-size: 120%;
+}
+.ja-h44{
+	width:100%;
+	height: 20px;
+	background: #8B0000;
+}
+.downconter{
+	width: 474px;
+	height: auto;
+	margin: 1px 1px 1px 282px;
+}
+.footer{
+	width: 100%;
+	height: auto;
+	background: #1E1E1E;
+	float: left;
+	margin-top: 7px;
+}
+.ja-footerwrap{
+	padding: 20px 0;
+    clear: both;
+    background: #1E1E1E;
+}
+.ja-footer{
+	width: 950px;
+	margin: 0 auto;
+}
+.ja-footnav{
+	font-size:100%;
+	color: #FFFFFF;
+}
+.menu{
+	width: 100%;
+	height: 30px;
+	margin-top: 90px;
+	float: left;
+	text-align: center;
+}
+.menu ul{
+	list-style-type: none;
+	text-align: center;
+	
+}
+.bac{
+	margin: 0;
+    padding: 0;
+    float: left;
+    display: block;
+    background: none;
+    cursor: pointer;
+	color: #333;
+}
+.bacbac{
+	background: url(https://nlv.gov.vn/templates/tvqg/images/tab-active-bg.gif) no-repeat top center #FFFFFF;
+    display: block;
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0 2px 0 0;
+    padding: 0px 20px;
+	color: #333333;
+}
+.menu ul li.active{
+	color: #333333;
+	background:none;
+	float: left;
+	margin: 0px;
+	padding: 0;
+	display: block;
+}
+.menu ul li.active a{
+	color: #333333;
+    display: block;
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0 2px 0 0;
+    padding: 0 20px;
+    text-decoration: none;
+	position:relative;
+    background: url(https://nlv.gov.vn/templates/tvqg/images/tab-bg.gif) no-repeat bottom center #CCCCCC;
+}
+ul.sub-menu{
+	text-align: left;
+	display: none;
+	position: absolute;
+}
+ul.sub-menu li{
+	margin-left: -40px;
+	padding-right: 45px;
+	border: 1px solid #666666;
+	    background: url(https://nlv.gov.vn/templates/tvqg/images/trans-bg.png);
+}
+.active:hover ul.sub-menu{
+	display: block;
+}
+.menu ul li.active:hover a{
+	background: #666666;
+	color: #EEEEEE;
+}
+.menu ul li.active ul.sub-menu:hover{
+	display: block;
+}
+ul.sub-menu li:hover {
+	background: #BBBBBB;
+}
+.menu ul li.active ul.sub-menu li a{
+	margin: 0;
+    padding: 0 10px;
+    border: none;
+    white-space: nowrap;
+    font-weight: normal;
+    font-size: 100%;
+    line-height: 26px;
+    background: none;
+    color: #FFFFFF;
+	text-align: left;
+}
+
+.sub-menu li:hover .sub-menu1{
+	display: block;
+}
+.sub-menu1{
+	display: none;
+	position: absolute;
+	margin-left: 195px;
+	margin-top: -18px;
+}
+.sub-menu1 li{
+	border-bottom: 1px solid #666666;
+	    background: url(https://nlv.gov.vn/templates/tvqg/images/trans-bg.png);
+	 color: #FFFFFF;
+}
